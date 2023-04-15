@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+requests
+torch
+matplotlib
+tqdm
